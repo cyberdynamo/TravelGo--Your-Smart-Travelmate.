@@ -1,2 +1,2 @@
-# TravelGo-Your-Smart-Travelmate.
+# TravelGo-Your-Smart-Travelmate
 Major Project Final Year
