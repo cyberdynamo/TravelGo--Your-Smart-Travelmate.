@@ -1,0 +1,12 @@
+#special{
+	background: #EEEEEE;
+	margin: 2px;
+	padding: 5px;
+	border: 3px solid #512DAB;
+}
+
+.footer{
+    background-color: #512DAB;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
